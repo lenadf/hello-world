@@ -1,4 +1,4 @@
-# hello-world BIS
+# hello-world TER
 Test
 Yay
 Hello darkness my old friennnnnnd
